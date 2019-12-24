@@ -1,0 +1,31 @@
+{
+  "Vue": [
+    { "description": "官方指南", "url": "https://cn.vuejs.org/v2/guide/" },
+    { "description": "API", "url": "https://cn.vuejs.org/v2/api/" },
+    {
+      "description": "VueRouter中文文档",
+      "url": "https://router.vuejs.org/zh/"
+    },
+    { "description": "Vuex", "url": "https://vuex.vuejs.org/zh/" },
+    {
+      "description": "Vue服务器端渲染",
+      "url": "https://ssr.vuejs.org/zh/"
+    },
+    {
+      "description": "VueLoader",
+      "url": "https://vue-loader.vuejs.org/zh/"
+    }
+  ],
+  "Webpack": [
+    {
+      "description": "Webpack中文文档",
+      "url": "https://www.webpackjs.com/concepts/"
+    }
+  ],
+  "jQuery": [
+    { "description": "jQuery中文文档", "url": "https://www.jquery123.com/" }
+  ],
+  "Moment": [
+    { "description": "Moment中英混合文档", "url": "http://momentjs.cn/docs/" }
+  ]
+}
